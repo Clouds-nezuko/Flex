@@ -23,6 +23,15 @@
 .for3 {
     color: rgba(16, 16, 100, 0.918);
 }
+.wind{
+    color: #444444;
+    line-height: 10px;
+}
+.seven{
+    color: #444444;
+    line-height: 10px;
+}
+
 
 .meh {
     justify-content: center;
@@ -225,6 +234,25 @@ border-color: #0d6efd;
     background-color: white;
 }
 .to{
+    color: #012970;
+}
+.much{
+    color: #012970;
+    line-height: 18px;
+}
+.much:hover{
+    color: #4541f1;
+    background-color: white;
+}
+.shy:hover:hover{
+    color: #012970;
+    background-color: white;
+}
+.shy{
+    color: #6c757d ;
+}
+
+.ve{
     color: #012970;
 }
 .ouch{
